@@ -1,0 +1,27 @@
+{
+	"version": 1,
+	"type": "panorama",
+	"external": {
+		"js": [
+			"webxr/three.min.js",
+			"webxr/webxr-polyfill.min.js"
+		],
+		"css": [
+			"https://fonts.googleapis.com/css2?family=El+Messiri&display=swap"
+		]
+	},
+	"skin": {
+		"js": "skin.js"
+	},
+	"creationdate": "2025-12-03T11:58:47.472Z",
+	"configuration": "pano.xml",
+	"player": {
+		"js": "pano2vr_player.js",
+		"version": "6.1.13"
+	},
+	"preview": {
+		"img": "preview.jpg",
+		"width": 1080,
+		"height": 1920
+	}
+}

@@ -1,0 +1,827 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node3" apprev="18080" appversion="6.1.13">
+  <panorama id="node3" hideabout="1">
+    <input levelingroll="0" height="1440" levelbiashidpi="1.000" width="1440" leveltilesize="510" levelbias="0.400" overlap="1" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0">
+      <level height="1440" width="1440" predecode="0" preload="0"/>
+      <level height="720" width="720" predecode="0" preload="0"/>
+      <level height="360" width="360" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" fov="110.61" projection="4" pan="-0.19"/>
+      <flyin tilt="-86.8" fov="238.11" projection="9" pan="88.5"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" fovstereographic="270" fovfisheye="360" fov="120" pan="360" scaletofit="1"/>
+    </view>
+    <userdata latitude="" customnodeid="" author="" datetime="12/1/2025 8:50 AM" copyright="" source="" description="" info="" tags="هوایی|START" title="سردر کارخانه" nodeid="node3" longitude="" comment="" heading="0"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label textcolor="0x000000" backgroundcolor="0xffffff" border="1" enabled="1" height="20" width="180" borderradius="1" wordwrap="1" textalpha="1" borderalpha="1" backgroundalpha="1" bordercolor="0x000000" background="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" borderalpha="1" backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff"/>
+      <polyhotspot target="8.2/0.0/98.3" description="" id="Poly01" title="میدان صنعت" url="{node5}">
+        <polystring>-346.64/11.23|-12.05/11.01|-12.39/5.73|-346.82/5.58</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <lensflare tilt="18.860" blinding="50.000" type="1" id="Lensflare01" alpha="80.000" color="0xffffff" pan="-207.150"/>
+      <sound level="0.850" mode="0" keep="1" id="skin_snd_unishahrood-sound" url="media/skin_snd_skin_snd_unishahrood-sound.mp3" loop="0"/>
+    </media>
+    <transition zoomafterinfov="90" zoomafteroutfov="20" blendtime="0" enabled="1" zoomspeed="1" softedge="0" zoomin="0" type="cut" zoomoutpause="0" zoomfov="20" blendcolor="0x000000" zoomout="0"/>
+    <autorotate returntohorizon="10.000" enabled="1" startloaded="0" noderandom="0" nodedelay="24.20" delay="5.00" useanimation="0" nodefilter="" speed="0.250"/>
+    <flyintransition enabled="1" speed="1.30"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" simulatemass="1" lockedkeyboard="0" contextfullscreen="1" rubberband="1" hideabout="1" contextvr="1" contextprojections="1" dblclickfullscreen="1" sensitivity="8" invertcontrol="1" lockedmouse="0" lockedwheel="0" invertwheel="1">
+      <menulink url="www.moon-co.ir" text="Paresh Group"/>
+      <menulink url="" text="Created by Eng.BASHIRI"/>
+    </control>
+  </panorama>
+  <panorama id="node5" hideabout="1">
+    <input levelingroll="0" height="1440" levelbiashidpi="1.000" width="1440" leveltilesize="510" levelbias="0.400" overlap="1" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0">
+      <level height="1440" width="1440" predecode="0" preload="0"/>
+      <level height="720" width="720" predecode="0" preload="0"/>
+      <level height="360" width="360" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" fov="98.3" projection="4" pan="8.16"/>
+      <flyin tilt="-73.05" fov="232.77" projection="9" pan="9.52"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" fovstereographic="270" fovfisheye="360" fov="120" pan="360" scaletofit="1"/>
+    </view>
+    <userdata latitude="" customnodeid="" author="" datetime="12/1/2025 8:59 AM" copyright="" source="" description="" info="" tags="هوایی" title="میدان صنعت" nodeid="node5" longitude="" comment="" heading="0"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label textcolor="0x000000" backgroundcolor="0xffffff" border="1" enabled="1" height="20" width="180" borderradius="1" wordwrap="1" textalpha="1" borderalpha="1" backgroundalpha="1" bordercolor="0x000000" background="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" borderalpha="1" backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff"/>
+      <polyhotspot target="" description="" id="Poly01" title="ساختمان مدیریت/مهندسی" url="{node6}">
+        <polystring>-314.09/15.02|-289.06/15.14|-289.06/9.14|-314.31/9.43</polystring>
+      </polyhotspot>
+      <polyhotspot target="179.8/0.0/110.6" description="" id="Poly02" title="سردر کارخانه" url="{node3}">
+        <polystring>-181.69/8.57|-156.41/8.88|-156.2/2.81|-181.79/2.9</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <lensflare tilt="21.870" blinding="50.000" type="1" id="Lensflare01" alpha="80.000" color="0xffffff" pan="-199.460"/>
+      <sound level="0.850" mode="0" keep="1" id="skin_snd_unishahrood-sound" url="media/skin_snd_skin_snd_unishahrood-sound.mp3" loop="0"/>
+    </media>
+    <transition zoomafterinfov="90" zoomafteroutfov="20" blendtime="0" enabled="1" zoomspeed="1" softedge="0" zoomin="0" type="cut" zoomoutpause="0" zoomfov="20" blendcolor="0x000000" zoomout="0"/>
+    <autorotate returntohorizon="10.000" enabled="1" startloaded="0" noderandom="0" nodedelay="24.20" delay="5.00" useanimation="0" nodefilter="" speed="0.250"/>
+    <flyintransition enabled="1" speed="1.30"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" simulatemass="1" lockedkeyboard="0" contextfullscreen="1" rubberband="1" hideabout="1" contextvr="1" contextprojections="1" dblclickfullscreen="1" sensitivity="8" invertcontrol="1" lockedmouse="0" lockedwheel="0" invertwheel="1">
+      <menulink url="www.moon-co.ir" text="Paresh Group"/>
+      <menulink url="" text="Created by Eng.BASHIRI"/>
+    </control>
+  </panorama>
+  <panorama id="node6" hideabout="1">
+    <input levelingroll="0" height="1440" levelbiashidpi="1.000" width="1440" leveltilesize="510" levelbias="0.400" overlap="1" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0">
+      <level height="1440" width="1440" predecode="0" preload="0"/>
+      <level height="720" width="720" predecode="0" preload="0"/>
+      <level height="360" width="360" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" fov="98.3" projection="4" pan="-0.4"/>
+      <flyin tilt="-90" fov="232.77" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" fovstereographic="270" fovfisheye="360" fov="120" pan="360" scaletofit="1"/>
+    </view>
+    <userdata latitude="" customnodeid="" author="" datetime="12/1/2025 9:07 AM" copyright="" source="" description="" info="" tags="هوایی" title="ساختمان مدیریت/مهندسی" nodeid="node6" longitude="" comment="" heading="0"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label textcolor="0x000000" backgroundcolor="0xffffff" border="1" enabled="1" height="20" width="180" borderradius="1" wordwrap="1" textalpha="1" borderalpha="1" backgroundalpha="1" bordercolor="0x000000" background="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" borderalpha="1" backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff"/>
+      <polyhotspot target="-168.8/0.0/98.3" description="" id="Poly01" title="میدان صنعت" url="{node5}">
+        <polystring>-10.1/9.1|-34.84/8.36|-34.99/2.87|-9.93/3.36</polystring>
+      </polyhotspot>
+      <polyhotspot target="-49.9/0.0/98.3" description="" id="Poly02" title="سالن های تولیدی 110،120،130" url="{node7}">
+        <polystring>-195.6/7.79|-169.97/7.46|-169.97/1.63|-195.84/2.05</polystring>
+      </polyhotspot>
+      <polyhotspot target="34.0/0.0/90.9" description="" id="Poly03" title="آزمایشگاه تست محصولات EX" url="{node2}">
+        <polystring>-294.87/15.59|-294.87/9.97|-269.42/10.1|-269.5/15.39</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <lensflare tilt="19.240" blinding="50.000" type="1" id="Lensflare01" alpha="80.000" color="0xffffff" pan="-121.590"/>
+      <sound level="0.850" mode="0" keep="1" id="skin_snd_unishahrood-sound" url="media/skin_snd_skin_snd_unishahrood-sound.mp3" loop="0"/>
+    </media>
+    <transition zoomafterinfov="90" zoomafteroutfov="20" blendtime="0" enabled="1" zoomspeed="1" softedge="0" zoomin="0" type="cut" zoomoutpause="0" zoomfov="20" blendcolor="0x000000" zoomout="0"/>
+    <autorotate returntohorizon="10.000" enabled="1" startloaded="0" noderandom="0" nodedelay="24.20" delay="5.00" useanimation="0" nodefilter="" speed="0.250"/>
+    <flyintransition enabled="1" speed="1.30"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" simulatemass="1" lockedkeyboard="0" contextfullscreen="1" rubberband="1" hideabout="1" contextvr="1" contextprojections="1" dblclickfullscreen="1" sensitivity="8" invertcontrol="1" lockedmouse="0" lockedwheel="0" invertwheel="1">
+      <menulink url="www.moon-co.ir" text="Paresh Group"/>
+      <menulink url="" text="Created by Eng.BASHIRI"/>
+    </control>
+  </panorama>
+  <panorama id="node7" hideabout="1">
+    <input levelingroll="0" height="1440" levelbiashidpi="1.000" width="1440" leveltilesize="510" levelbias="0.400" overlap="1" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0">
+      <level height="1440" width="1440" predecode="0" preload="0"/>
+      <level height="720" width="720" predecode="0" preload="0"/>
+      <level height="360" width="360" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" fov="98.3" projection="4" pan="-49.9"/>
+      <flyin tilt="-88.1" fov="232.77" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" fovstereographic="270" fovfisheye="360" fov="120" pan="360" scaletofit="1"/>
+    </view>
+    <userdata latitude="" customnodeid="" author="" datetime="12/1/2025 9:15 AM" copyright="" source="" description="" info="" tags="هوایی" title="سالن های تولیدی 110،120،130" nodeid="node7" longitude="" comment="" heading="0"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label textcolor="0x000000" backgroundcolor="0xffffff" border="1" enabled="1" height="20" width="180" borderradius="1" wordwrap="1" textalpha="1" borderalpha="1" backgroundalpha="1" bordercolor="0x000000" background="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" borderalpha="1" backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff"/>
+      <polyhotspot target="-0.4/0.0/98.3" description="" id="Poly01" title="ساختمان مدیریت/مهندسی" url="{node6}">
+        <polystring>-256.71/12.29|-282.35/12.35|-282.48/6.61|-256.71/6.52</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly02" title="عایق کاری VPI" url="{node26}">
+        <polystring>-68/-29.66|-36.76/-30.05|-36.66/-35|-68.06/-34.63</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly03" title="تست سیم پیچ فشار ضعیف" url="{node17}">
+        <polystring>-350.74/-38.44|-319.26/-39.28|-318.94/-43.71|-350.76/-42.58</polystring>
+      </polyhotspot>
+      <polyhotspot target="0.0/0.0/98.3" description="" id="Poly04" title="میهمان سرا" url="{node1}">
+        <polystring>-169.22/16.93|-194.81/16.99|-195.02/11.48|-169.22/11.17</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <lensflare tilt="21.480" blinding="50.000" type="1" id="Lensflare01" alpha="80.000" color="0xffffff" pan="-37.480"/>
+      <sound level="0.850" mode="0" keep="1" id="skin_snd_unishahrood-sound" url="media/skin_snd_skin_snd_unishahrood-sound.mp3" loop="0"/>
+    </media>
+    <transition zoomafterinfov="90" zoomafteroutfov="20" blendtime="0" enabled="1" zoomspeed="1" softedge="0" zoomin="0" type="cut" zoomoutpause="0" zoomfov="20" blendcolor="0x000000" zoomout="0"/>
+    <autorotate returntohorizon="10.000" enabled="1" startloaded="0" noderandom="0" nodedelay="24.20" delay="5.00" useanimation="0" nodefilter="" speed="0.250"/>
+    <flyintransition enabled="1" speed="1.30"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" simulatemass="1" lockedkeyboard="0" contextfullscreen="1" rubberband="1" hideabout="1" contextvr="1" contextprojections="1" dblclickfullscreen="1" sensitivity="8" invertcontrol="1" lockedmouse="0" lockedwheel="0" invertwheel="1">
+      <menulink url="www.moon-co.ir" text="Paresh Group"/>
+      <menulink url="" text="Created by Eng.BASHIRI"/>
+    </control>
+  </panorama>
+  <panorama id="node16" hideabout="1">
+    <input levelingroll="0" height="2976" levelbiashidpi="1.000" width="2976" leveltilesize="510" levelbias="0.400" overlap="1" leveltileurl="tiles/node16/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0">
+      <level height="2976" width="2976" predecode="0" preload="0"/>
+      <level height="1488" width="1488" predecode="0" preload="0"/>
+      <level height="744" width="744" predecode="0" preload="0"/>
+      <level height="372" width="372" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" fov="100" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" fovstereographic="270" fovfisheye="360" fov="120" pan="360" scaletofit="1"/>
+    </view>
+    <userdata latitude="36.213444" customnodeid="" author="" datetime="12/1/2025 10:41 AM" copyright="" source="" description="" info="" tags="زمینی|110" altitude="977.30" title="بوبین پیچی و جایگذاری فشار ضعیف" nodeid="node16" longitude="57.672806" comment="" heading="0"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label textcolor="0x000000" backgroundcolor="0xffffff" border="1" enabled="1" height="20" width="180" borderradius="1" wordwrap="1" textalpha="1" borderalpha="1" backgroundalpha="1" bordercolor="0x000000" background="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" borderalpha="1" backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot tilt="2" target="-55.0/0.0/100.0" description="" id="Point01" title="تست سیم پیچ فشار ضعیف" skinid="ht_node" pan="-124.85" url="{node17}"/>
+      <hotspot tilt="2" target="-89.8/0.0/92.4" description="" id="Point02" title="مونتاژ محصولات فشار ضعیف" skinid="ht_node" pan="-273.43" url="{node20}"/>
+    </hotspots>
+    <media>
+      <sound level="0.850" mode="0" keep="1" id="skin_snd_unishahrood-sound" url="media/skin_snd_skin_snd_unishahrood-sound.mp3" loop="0"/>
+    </media>
+    <transition zoomafterinfov="90" zoomafteroutfov="20" blendtime="0" enabled="1" zoomspeed="1" softedge="0" zoomin="0" type="cut" zoomoutpause="0" zoomfov="20" blendcolor="0x000000" zoomout="0"/>
+    <autorotate returntohorizon="10.000" enabled="1" startloaded="0" noderandom="0" nodedelay="24.20" delay="5.00" useanimation="0" nodefilter="" speed="0.250"/>
+    <flyintransition enabled="1" speed="1.30"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" simulatemass="1" lockedkeyboard="0" contextfullscreen="1" rubberband="1" hideabout="1" contextvr="1" contextprojections="1" dblclickfullscreen="1" sensitivity="8" invertcontrol="1" lockedmouse="0" lockedwheel="0" invertwheel="1">
+      <menulink url="www.moon-co.ir" text="Paresh Group"/>
+      <menulink url="" text="Created by Eng.BASHIRI"/>
+    </control>
+  </panorama>
+  <panorama id="node17" hideabout="1">
+    <input levelingroll="0" height="2976" levelbiashidpi="1.000" width="2976" leveltilesize="510" levelbias="0.400" overlap="1" leveltileurl="tiles/node17/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0">
+      <level height="2976" width="2976" predecode="0" preload="0"/>
+      <level height="1488" width="1488" predecode="0" preload="0"/>
+      <level height="744" width="744" predecode="0" preload="0"/>
+      <level height="372" width="372" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" fov="100" projection="4" pan="-130"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" fovstereographic="270" fovfisheye="360" fov="120" pan="360" scaletofit="1"/>
+    </view>
+    <userdata latitude="36.213444" customnodeid="" author="" datetime="12/1/2025 10:59 AM" copyright="" source="" description="" info="" tags="زمینی|110" altitude="977.30" title="تست سیم پیچ فشار ضعیف" nodeid="node17" longitude="57.672806" comment="" heading="0"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label textcolor="0x000000" backgroundcolor="0xffffff" border="1" enabled="1" height="20" width="180" borderradius="1" wordwrap="1" textalpha="1" borderalpha="1" backgroundalpha="1" bordercolor="0x000000" background="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" borderalpha="1" backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot tilt="2" target="55.0/0.0/100.0" description="" id="Point01" title="بوبین پیچی و جایگذاری فشار ضعیف" skinid="ht_node" pan="-237.56" url="{node16}"/>
+    </hotspots>
+    <media>
+      <lensflare tilt="27.290" blinding="50.000" type="1" id="Lensflare01" alpha="80.000" color="0xffffff" pan="-299.830"/>
+      <sound level="0.850" mode="0" keep="1" id="skin_snd_unishahrood-sound" url="media/skin_snd_skin_snd_unishahrood-sound.mp3" loop="0"/>
+    </media>
+    <transition zoomafterinfov="90" zoomafteroutfov="20" blendtime="0" enabled="1" zoomspeed="1" softedge="0" zoomin="0" type="cut" zoomoutpause="0" zoomfov="20" blendcolor="0x000000" zoomout="0"/>
+    <autorotate returntohorizon="10.000" enabled="1" startloaded="0" noderandom="0" nodedelay="24.20" delay="5.00" useanimation="0" nodefilter="" speed="0.250"/>
+    <flyintransition enabled="1" speed="1.30"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" simulatemass="1" lockedkeyboard="0" contextfullscreen="1" rubberband="1" hideabout="1" contextvr="1" contextprojections="1" dblclickfullscreen="1" sensitivity="8" invertcontrol="1" lockedmouse="0" lockedwheel="0" invertwheel="1">
+      <menulink url="www.moon-co.ir" text="Paresh Group"/>
+      <menulink url="" text="Created by Eng.BASHIRI"/>
+    </control>
+  </panorama>
+  <panorama id="node19" hideabout="1">
+    <input levelingroll="0" height="2976" levelbiashidpi="1.000" width="2976" leveltilesize="510" levelbias="0.400" overlap="1" leveltileurl="tiles/node19/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0">
+      <level height="2976" width="2976" predecode="0" preload="0"/>
+      <level height="1488" width="1488" predecode="0" preload="0"/>
+      <level height="744" width="744" predecode="0" preload="0"/>
+      <level height="372" width="372" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" fov="100" projection="4" pan="-167.212"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" fovstereographic="270" fovfisheye="360" fov="120" pan="360" scaletofit="1"/>
+    </view>
+    <userdata latitude="36.213444" customnodeid="" author="" datetime="12/1/2025 12:24 PM" copyright="" source="" description="" info="" tags="زمینی|110" altitude="977.30" title="لاک زنی و  پرس هسته در پوسته" nodeid="node19" longitude="57.672806" comment="" heading="0"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label textcolor="0x000000" backgroundcolor="0xffffff" border="1" enabled="1" height="20" width="180" borderradius="1" wordwrap="1" textalpha="1" borderalpha="1" backgroundalpha="1" bordercolor="0x000000" background="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" borderalpha="1" backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot tilt="-1.43" target="123.0/0.0/100.0" description="" id="Point01" title="تست سیم پیچ فشار ضعیف" skinid="ht_node" pan="-259.23" url="{node17}"/>
+      <hotspot tilt="2" target="" description="" id="Point02" title="مونتاژ محصولات فشار ضعیف" skinid="ht_node" pan="-167.65" url="{node20}"/>
+    </hotspots>
+    <media>
+      <sound level="0.850" mode="0" keep="1" id="skin_snd_unishahrood-sound" url="media/skin_snd_skin_snd_unishahrood-sound.mp3" loop="0"/>
+    </media>
+    <transition zoomafterinfov="90" zoomafteroutfov="20" blendtime="0" enabled="1" zoomspeed="1" softedge="0" zoomin="0" type="cut" zoomoutpause="0" zoomfov="20" blendcolor="0x000000" zoomout="0"/>
+    <autorotate returntohorizon="10.000" enabled="1" startloaded="0" noderandom="0" nodedelay="24.20" delay="5.00" useanimation="0" nodefilter="" speed="0.250"/>
+    <flyintransition enabled="1" speed="1.30"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" simulatemass="1" lockedkeyboard="0" contextfullscreen="1" rubberband="1" hideabout="1" contextvr="1" contextprojections="1" dblclickfullscreen="1" sensitivity="8" invertcontrol="1" lockedmouse="0" lockedwheel="0" invertwheel="1">
+      <menulink url="www.moon-co.ir" text="Paresh Group"/>
+      <menulink url="" text="Created by Eng.BASHIRI"/>
+    </control>
+  </panorama>
+  <panorama id="node20" hideabout="1">
+    <input levelingroll="0" height="2976" levelbiashidpi="1.000" width="2976" leveltilesize="510" levelbias="0.400" overlap="1" leveltileurl="tiles/node20/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0">
+      <level height="2976" width="2976" predecode="0" preload="0"/>
+      <level height="1488" width="1488" predecode="0" preload="0"/>
+      <level height="744" width="744" predecode="0" preload="0"/>
+      <level height="372" width="372" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" fov="100" projection="4" pan="-179.808"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" fovstereographic="270" fovfisheye="360" fov="120" pan="360" scaletofit="1"/>
+    </view>
+    <userdata latitude="36.213444" customnodeid="" author="" datetime="12/1/2025 12:28 PM" copyright="" source="" description="" info="" tags="زمینی|110" altitude="977.30" title="مونتاژ محصولات فشار ضعیف" nodeid="node20" longitude="57.672806" comment="" heading="0"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label textcolor="0x000000" backgroundcolor="0xffffff" border="1" enabled="1" height="20" width="180" borderradius="1" wordwrap="1" textalpha="1" borderalpha="1" backgroundalpha="1" bordercolor="0x000000" background="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" borderalpha="1" backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot tilt="2" target="102.8/0.0/100.0" description="" id="Point01" title="لاک زنی و  پرس هسته در پوسته" skinid="ht_node" pan="-4.14" url="{node19}"/>
+      <hotspot tilt="2" target="177.3/0.0/100.0" description="" id="Point02" title="استند تست 110" skinid="ht_node" pan="-179.14" url="{node15}"/>
+      <hotspot tilt="2" target="-69.0/0.0/100.0" description="" id="Point03" title="بوبین پیچی و جایگذاری فشار ضعیف" skinid="ht_node" pan="-298.82" url="{node16}"/>
+    </hotspots>
+    <media>
+      <sound level="0.850" mode="0" keep="1" id="skin_snd_unishahrood-sound" url="media/skin_snd_skin_snd_unishahrood-sound.mp3" loop="0"/>
+    </media>
+    <transition zoomafterinfov="90" zoomafteroutfov="20" blendtime="0" enabled="1" zoomspeed="1" softedge="0" zoomin="0" type="cut" zoomoutpause="0" zoomfov="20" blendcolor="0x000000" zoomout="0"/>
+    <autorotate returntohorizon="10.000" enabled="1" startloaded="0" noderandom="0" nodedelay="24.20" delay="5.00" useanimation="0" nodefilter="" speed="0.250"/>
+    <flyintransition enabled="1" speed="1.30"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" simulatemass="1" lockedkeyboard="0" contextfullscreen="1" rubberband="1" hideabout="1" contextvr="1" contextprojections="1" dblclickfullscreen="1" sensitivity="8" invertcontrol="1" lockedmouse="0" lockedwheel="0" invertwheel="1">
+      <menulink url="www.moon-co.ir" text="Paresh Group"/>
+      <menulink url="" text="Created by Eng.BASHIRI"/>
+    </control>
+  </panorama>
+  <panorama id="node15" hideabout="1">
+    <input levelingroll="0" height="2976" levelbiashidpi="1.000" width="2976" leveltilesize="510" levelbias="0.400" overlap="1" leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0">
+      <level height="2976" width="2976" predecode="0" preload="0"/>
+      <level height="1488" width="1488" predecode="0" preload="0"/>
+      <level height="744" width="744" predecode="0" preload="0"/>
+      <level height="372" width="372" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" fov="100" projection="4" pan="177.25"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" fovstereographic="270" fovfisheye="360" fov="120" pan="360" scaletofit="1"/>
+    </view>
+    <userdata latitude="36.213444" customnodeid="" author="" datetime="12/1/2025 10:15 AM" copyright="" source="" description="" info="" tags="زمینی|110" altitude="977.30" title="استند تست 110" nodeid="node15" longitude="57.672806" comment="" heading="0"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label textcolor="0x000000" backgroundcolor="0xffffff" border="1" enabled="1" height="20" width="180" borderradius="1" wordwrap="1" textalpha="1" borderalpha="1" backgroundalpha="1" bordercolor="0x000000" background="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" borderalpha="1" backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot tilt="2" target="-1.0/0.0/100.0" description="" id="Point01" title="مونتاژ محصولات فشار ضعیف" skinid="ht_node" pan="-328.78" url="{node20}"/>
+      <hotspot tilt="2" target="162.0/0.0/100.0" description="" id="Point02" title="اتاق فرمان تست 110" skinid="ht_node" pan="-75.62" url="{node14}"/>
+    </hotspots>
+    <media>
+      <sound level="0.850" mode="0" keep="1" id="skin_snd_unishahrood-sound" url="media/skin_snd_skin_snd_unishahrood-sound.mp3" loop="0"/>
+    </media>
+    <transition zoomafterinfov="90" zoomafteroutfov="20" blendtime="0" enabled="1" zoomspeed="1" softedge="0" zoomin="0" type="cut" zoomoutpause="0" zoomfov="20" blendcolor="0x000000" zoomout="0"/>
+    <autorotate returntohorizon="10.000" enabled="1" startloaded="0" noderandom="0" nodedelay="24.20" delay="5.00" useanimation="0" nodefilter="" speed="0.250"/>
+    <flyintransition enabled="1" speed="1.30"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" simulatemass="1" lockedkeyboard="0" contextfullscreen="1" rubberband="1" hideabout="1" contextvr="1" contextprojections="1" dblclickfullscreen="1" sensitivity="8" invertcontrol="1" lockedmouse="0" lockedwheel="0" invertwheel="1">
+      <menulink url="www.moon-co.ir" text="Paresh Group"/>
+      <menulink url="" text="Created by Eng.BASHIRI"/>
+    </control>
+  </panorama>
+  <panorama id="node14" hideabout="1">
+    <input levelingroll="0" height="2976" levelbiashidpi="1.000" width="2976" leveltilesize="510" levelbias="0.400" overlap="1" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0">
+      <level height="2976" width="2976" predecode="0" preload="0"/>
+      <level height="1488" width="1488" predecode="0" preload="0"/>
+      <level height="744" width="744" predecode="0" preload="0"/>
+      <level height="372" width="372" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" fov="100" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" fovstereographic="270" fovfisheye="360" fov="120" pan="360" scaletofit="1"/>
+    </view>
+    <userdata latitude="36.213444" customnodeid="" author="" datetime="12/1/2025 10:02 AM" copyright="" source="" description="" info="" tags="زمینی|110" altitude="977.30" title="اتاق فرمان تست 110" nodeid="node14" longitude="57.672806" comment="" heading="0"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label textcolor="0x000000" backgroundcolor="0xffffff" border="1" enabled="1" height="20" width="180" borderradius="1" wordwrap="1" textalpha="1" borderalpha="1" backgroundalpha="1" bordercolor="0x000000" background="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" borderalpha="1" backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot tilt="2" target="41.3/0.0/100.0" description="" id="Point01" title="استند تست 110" skinid="ht_node" pan="-295.1" url="{node15}"/>
+    </hotspots>
+    <media>
+      <sound level="0.850" mode="0" keep="1" id="skin_snd_unishahrood-sound" url="media/skin_snd_skin_snd_unishahrood-sound.mp3" loop="0"/>
+    </media>
+    <transition zoomafterinfov="90" zoomafteroutfov="20" blendtime="0" enabled="1" zoomspeed="1" softedge="0" zoomin="0" type="cut" zoomoutpause="0" zoomfov="20" blendcolor="0x000000" zoomout="0"/>
+    <autorotate returntohorizon="10.000" enabled="1" startloaded="0" noderandom="0" nodedelay="24.20" delay="5.00" useanimation="0" nodefilter="" speed="0.250"/>
+    <flyintransition enabled="1" speed="1.30"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" simulatemass="1" lockedkeyboard="0" contextfullscreen="1" rubberband="1" hideabout="1" contextvr="1" contextprojections="1" dblclickfullscreen="1" sensitivity="8" invertcontrol="1" lockedmouse="0" lockedwheel="0" invertwheel="1">
+      <menulink url="www.moon-co.ir" text="Paresh Group"/>
+      <menulink url="" text="Created by Eng.BASHIRI"/>
+    </control>
+  </panorama>
+  <panorama id="node21" hideabout="1">
+    <input levelingroll="0" height="2976" levelbiashidpi="1.000" width="2976" leveltilesize="510" levelbias="0.400" overlap="1" leveltileurl="tiles/node21/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0">
+      <level height="2976" width="2976" predecode="0" preload="0"/>
+      <level height="1488" width="1488" predecode="0" preload="0"/>
+      <level height="744" width="744" predecode="0" preload="0"/>
+      <level height="372" width="372" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" fov="100" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" pan="17.25" fovpixel="2"/>
+      <max tilt="90" fovstereographic="270" fovfisheye="360" fov="120" pan="260.44" scaletofit="1"/>
+    </view>
+    <userdata latitude="36.213444" customnodeid="" author="" datetime="12/1/2025 12:37 PM" copyright="" source="" description="" info="" tags="زمینی|110" altitude="977.30" title="آماده سازی رنگ" nodeid="node21" longitude="57.672806" comment="" heading="0"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label textcolor="0x000000" backgroundcolor="0xffffff" border="1" enabled="1" height="20" width="180" borderradius="1" wordwrap="1" textalpha="1" borderalpha="1" backgroundalpha="1" bordercolor="0x000000" background="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" borderalpha="1" backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot tilt="2" target="-175.2/0.0/100.0" description="" id="Point01" title="رنگ کاری/کوره" skinid="ht_node" pan="-136.76" url="{node28}"/>
+    </hotspots>
+    <media>
+      <sound level="0.850" mode="0" keep="1" id="skin_snd_unishahrood-sound" url="media/skin_snd_skin_snd_unishahrood-sound.mp3" loop="0"/>
+    </media>
+    <transition zoomafterinfov="90" zoomafteroutfov="20" blendtime="0" enabled="1" zoomspeed="1" softedge="0" zoomin="0" type="cut" zoomoutpause="0" zoomfov="20" blendcolor="0x000000" zoomout="0"/>
+    <autorotate returntohorizon="10.000" enabled="1" startloaded="0" noderandom="0" nodedelay="24.20" delay="5.00" useanimation="0" nodefilter="" speed="0.250"/>
+    <flyintransition enabled="1" speed="1.30"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" simulatemass="1" lockedkeyboard="0" contextfullscreen="1" rubberband="1" hideabout="1" contextvr="1" contextprojections="1" dblclickfullscreen="1" sensitivity="8" invertcontrol="1" lockedmouse="0" lockedwheel="0" invertwheel="1">
+      <menulink url="www.moon-co.ir" text="Paresh Group"/>
+      <menulink url="" text="Created by Eng.BASHIRI"/>
+    </control>
+  </panorama>
+  <panorama id="node28" hideabout="1">
+    <input levelingroll="0" height="2976" levelbiashidpi="1.000" width="2976" leveltilesize="510" levelbias="0.400" overlap="1" leveltileurl="tiles/node28/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0">
+      <level height="2976" width="2976" predecode="0" preload="0"/>
+      <level height="1488" width="1488" predecode="0" preload="0"/>
+      <level height="744" width="744" predecode="0" preload="0"/>
+      <level height="372" width="372" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" fov="100" projection="4" pan="10.8157"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" fovstereographic="270" fovfisheye="360" fov="120" pan="360" scaletofit="1"/>
+    </view>
+    <userdata latitude="36.213444" customnodeid="" author="" datetime="12/1/2025 1:20 PM" copyright="" source="" description="" info="" tags="زمینی|110" altitude="977.30" title="رنگ کاری/کوره" nodeid="node28" longitude="57.672806" comment="" heading="0"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label textcolor="0x000000" backgroundcolor="0xffffff" border="1" enabled="1" height="20" width="180" borderradius="1" wordwrap="1" textalpha="1" borderalpha="1" backgroundalpha="1" bordercolor="0x000000" background="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" borderalpha="1" backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot tilt="2" target="122.0/0.0/100.0" description="" id="Point01" title="آماده سازی رنگ" skinid="ht_node" pan="-348.51" url="{node21}"/>
+      <hotspot tilt="2" target="108.0/0.0/100.0" description="" id="Point02" title="بسته بندی محصول نهایی" skinid="ht_node" pan="-213.45" url="{node22}"/>
+      <hotspot tilt="2" target="-4.7/0.0/100.0" description="" id="Point03" title="مونتاژ محصولات فشار ضعیف" skinid="ht_node" pan="-131.35" url="{node20}"/>
+    </hotspots>
+    <media>
+      <sound level="0.850" mode="0" keep="1" id="skin_snd_unishahrood-sound" url="media/skin_snd_skin_snd_unishahrood-sound.mp3" loop="0"/>
+    </media>
+    <transition zoomafterinfov="90" zoomafteroutfov="20" blendtime="0" enabled="1" zoomspeed="1" softedge="0" zoomin="0" type="cut" zoomoutpause="0" zoomfov="20" blendcolor="0x000000" zoomout="0"/>
+    <autorotate returntohorizon="10.000" enabled="1" startloaded="0" noderandom="0" nodedelay="24.20" delay="5.00" useanimation="0" nodefilter="" speed="0.250"/>
+    <flyintransition enabled="1" speed="1.30"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" simulatemass="1" lockedkeyboard="0" contextfullscreen="1" rubberband="1" hideabout="1" contextvr="1" contextprojections="1" dblclickfullscreen="1" sensitivity="8" invertcontrol="1" lockedmouse="0" lockedwheel="0" invertwheel="1">
+      <menulink url="www.moon-co.ir" text="Paresh Group"/>
+      <menulink url="" text="Created by Eng.BASHIRI"/>
+    </control>
+  </panorama>
+  <panorama id="node22" hideabout="1">
+    <input levelingroll="0" height="2976" levelbiashidpi="1.000" width="2976" leveltilesize="510" levelbias="0.400" overlap="1" leveltileurl="tiles/node22/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0">
+      <level height="2976" width="2976" predecode="0" preload="0"/>
+      <level height="1488" width="1488" predecode="0" preload="0"/>
+      <level height="744" width="744" predecode="0" preload="0"/>
+      <level height="372" width="372" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" fov="100" projection="4" pan="-74.7893"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" fovstereographic="270" fovfisheye="360" fov="120" pan="360" scaletofit="1"/>
+    </view>
+    <userdata latitude="36.213444" customnodeid="" author="" datetime="12/1/2025 1:17 PM" copyright="" source="" description="" info="" tags="زمینی|110" altitude="977.30" title="بسته بندی محصول نهایی" nodeid="node22" longitude="57.672806" comment="" heading="0"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label textcolor="0x000000" backgroundcolor="0xffffff" border="1" enabled="1" height="20" width="180" borderradius="1" wordwrap="1" textalpha="1" borderalpha="1" backgroundalpha="1" bordercolor="0x000000" background="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" borderalpha="1" backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot tilt="2" target="102.8/0.0/100.0" description="" id="Point01" title="لاک زنی و  پرس هسته در پوسته" skinid="ht_node" pan="-250.99" url="{node19}"/>
+      <hotspot tilt="2" target="10.8/0.0/100.0" description="" id="Point02" title="رنگ کاری/کوره" skinid="ht_node" pan="-74.09" url="{node28}"/>
+    </hotspots>
+    <media>
+      <sound level="0.850" mode="0" keep="1" id="skin_snd_unishahrood-sound" url="media/skin_snd_skin_snd_unishahrood-sound.mp3" loop="0"/>
+    </media>
+    <transition zoomafterinfov="90" zoomafteroutfov="20" blendtime="0" enabled="1" zoomspeed="1" softedge="0" zoomin="0" type="cut" zoomoutpause="0" zoomfov="20" blendcolor="0x000000" zoomout="0"/>
+    <autorotate returntohorizon="10.000" enabled="1" startloaded="0" noderandom="0" nodedelay="24.20" delay="5.00" useanimation="0" nodefilter="" speed="0.250"/>
+    <flyintransition enabled="1" speed="1.30"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" simulatemass="1" lockedkeyboard="0" contextfullscreen="1" rubberband="1" hideabout="1" contextvr="1" contextprojections="1" dblclickfullscreen="1" sensitivity="8" invertcontrol="1" lockedmouse="0" lockedwheel="0" invertwheel="1">
+      <menulink url="www.moon-co.ir" text="Paresh Group"/>
+      <menulink url="" text="Created by Eng.BASHIRI"/>
+    </control>
+  </panorama>
+  <panorama id="node26" hideabout="1">
+    <input levelingroll="0" height="2976" levelbiashidpi="1.000" width="2976" leveltilesize="510" levelbias="0.400" overlap="1" leveltileurl="tiles/node26/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0">
+      <level height="2976" width="2976" predecode="0" preload="0"/>
+      <level height="1488" width="1488" predecode="0" preload="0"/>
+      <level height="744" width="744" predecode="0" preload="0"/>
+      <level height="372" width="372" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" fov="100" projection="4" pan="112"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-94" pan="76.68" fovpixel="2"/>
+      <max tilt="94" fovstereographic="270" fovfisheye="360" fov="120" pan="324.18" scaletofit="1"/>
+    </view>
+    <userdata latitude="36.213444" customnodeid="" author="" datetime="12/1/2025 12:12 PM" copyright="" source="" description="" info="" tags="زمینی|120" altitude="977.30" title="عایق کاری VPI" nodeid="node26" longitude="57.672806" comment="" heading="0"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label textcolor="0x000000" backgroundcolor="0xffffff" border="1" enabled="1" height="20" width="180" borderradius="1" wordwrap="1" textalpha="1" borderalpha="1" backgroundalpha="1" bordercolor="0x000000" background="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" borderalpha="1" backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot tilt="-5.66" target="-15.0/0.0/100.0" description="" id="Point01" title="ساخت بوبین و عایق کاری فشار قوی" skinid="ht_node" pan="-95.93" url="{node25}"/>
+    </hotspots>
+    <media>
+      <sound level="0.850" mode="0" keep="1" id="skin_snd_unishahrood-sound" url="media/skin_snd_skin_snd_unishahrood-sound.mp3" loop="0"/>
+    </media>
+    <transition zoomafterinfov="90" zoomafteroutfov="20" blendtime="0" enabled="1" zoomspeed="1" softedge="0" zoomin="0" type="cut" zoomoutpause="0" zoomfov="20" blendcolor="0x000000" zoomout="0"/>
+    <autorotate returntohorizon="10.000" enabled="1" startloaded="0" noderandom="0" nodedelay="24.20" delay="5.00" useanimation="0" nodefilter="" speed="0.250"/>
+    <flyintransition enabled="1" speed="1.30"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" simulatemass="1" lockedkeyboard="0" contextfullscreen="1" rubberband="1" hideabout="1" contextvr="1" contextprojections="1" dblclickfullscreen="1" sensitivity="8" invertcontrol="1" lockedmouse="0" lockedwheel="0" invertwheel="1">
+      <menulink url="www.moon-co.ir" text="Paresh Group"/>
+      <menulink url="" text="Created by Eng.BASHIRI"/>
+    </control>
+  </panorama>
+  <panorama id="node25" hideabout="1">
+    <input levelingroll="0" height="2976" levelbiashidpi="1.000" width="2976" leveltilesize="510" levelbias="0.400" overlap="1" leveltileurl="tiles/node25/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0">
+      <level height="2976" width="2976" predecode="0" preload="0"/>
+      <level height="1488" width="1488" predecode="0" preload="0"/>
+      <level height="744" width="744" predecode="0" preload="0"/>
+      <level height="372" width="372" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" fov="100" projection="4" pan="-15"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" fovstereographic="270" fovfisheye="360" fov="120" pan="360" scaletofit="1"/>
+    </view>
+    <userdata latitude="36.213444" customnodeid="" author="" datetime="12/1/2025 12:06 PM" copyright="" source="" description="" info="" tags="زمینی|120" altitude="977.30" title="ساخت بوبین و عایق کاری فشار قوی" nodeid="node25" longitude="57.672806" comment="" heading="0"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label textcolor="0x000000" backgroundcolor="0xffffff" border="1" enabled="1" height="20" width="180" borderradius="1" wordwrap="1" textalpha="1" borderalpha="1" backgroundalpha="1" bordercolor="0x000000" background="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" borderalpha="1" backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot tilt="2" target="128.6/0.0/100.0" description="" id="Point01" title="عایق کاری VPI" skinid="ht_node" pan="-198.79" url="{node26}"/>
+      <hotspot tilt="2" target="43.0/0.0/100.0" description="" id="Point02" title="کویل سازی فشار قوی" skinid="ht_node" pan="-16.26" url="{node27}"/>
+      <hotspot tilt="2" target="" description="" id="Point03" title="تولید ، روتراشی و بالانس رتور" skinid="ht_node" pan="-108.85" url="{node24}"/>
+    </hotspots>
+    <media>
+      <sound level="0.850" mode="0" keep="1" id="skin_snd_unishahrood-sound" url="media/skin_snd_skin_snd_unishahrood-sound.mp3" loop="0"/>
+    </media>
+    <transition zoomafterinfov="90" zoomafteroutfov="20" blendtime="0" enabled="1" zoomspeed="1" softedge="0" zoomin="0" type="cut" zoomoutpause="0" zoomfov="20" blendcolor="0x000000" zoomout="0"/>
+    <autorotate returntohorizon="10.000" enabled="1" startloaded="0" noderandom="0" nodedelay="24.20" delay="5.00" useanimation="0" nodefilter="" speed="0.250"/>
+    <flyintransition enabled="1" speed="1.30"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" simulatemass="1" lockedkeyboard="0" contextfullscreen="1" rubberband="1" hideabout="1" contextvr="1" contextprojections="1" dblclickfullscreen="1" sensitivity="8" invertcontrol="1" lockedmouse="0" lockedwheel="0" invertwheel="1">
+      <menulink url="www.moon-co.ir" text="Paresh Group"/>
+      <menulink url="" text="Created by Eng.BASHIRI"/>
+    </control>
+  </panorama>
+  <panorama id="node27" hideabout="1">
+    <input levelingroll="0" height="2976" levelbiashidpi="1.000" width="2976" leveltilesize="510" levelbias="0.400" overlap="1" leveltileurl="tiles/node27/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0">
+      <level height="2976" width="2976" predecode="0" preload="0"/>
+      <level height="1488" width="1488" predecode="0" preload="0"/>
+      <level height="744" width="744" predecode="0" preload="0"/>
+      <level height="372" width="372" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" fov="100" projection="4" pan="43"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" fovstereographic="270" fovfisheye="360" fov="120" pan="360" scaletofit="1"/>
+    </view>
+    <userdata latitude="36.213444" customnodeid="" author="" datetime="12/1/2025 12:18 PM" copyright="" source="" description="" info="" tags="زمینی|120" altitude="977.30" title="کویل سازی فشار قوی" nodeid="node27" longitude="57.672806" comment="" heading="0"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label textcolor="0x000000" backgroundcolor="0xffffff" border="1" enabled="1" height="20" width="180" borderradius="1" wordwrap="1" textalpha="1" borderalpha="1" backgroundalpha="1" bordercolor="0x000000" background="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" borderalpha="1" backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot tilt="2" target="161.2/0.0/100.0" description="" id="Point01" title="ساخت بوبین و عایق کاری فشار قوی" skinid="ht_node" pan="-134.58" url="{node25}"/>
+    </hotspots>
+    <media>
+      <sound level="0.850" mode="0" keep="1" id="skin_snd_unishahrood-sound" url="media/skin_snd_skin_snd_unishahrood-sound.mp3" loop="0"/>
+    </media>
+    <transition zoomafterinfov="90" zoomafteroutfov="20" blendtime="0" enabled="1" zoomspeed="1" softedge="0" zoomin="0" type="cut" zoomoutpause="0" zoomfov="20" blendcolor="0x000000" zoomout="0"/>
+    <autorotate returntohorizon="10.000" enabled="1" startloaded="0" noderandom="0" nodedelay="24.20" delay="5.00" useanimation="0" nodefilter="" speed="0.250"/>
+    <flyintransition enabled="1" speed="1.30"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" simulatemass="1" lockedkeyboard="0" contextfullscreen="1" rubberband="1" hideabout="1" contextvr="1" contextprojections="1" dblclickfullscreen="1" sensitivity="8" invertcontrol="1" lockedmouse="0" lockedwheel="0" invertwheel="1">
+      <menulink url="www.moon-co.ir" text="Paresh Group"/>
+      <menulink url="" text="Created by Eng.BASHIRI"/>
+    </control>
+  </panorama>
+  <panorama id="node24" hideabout="1">
+    <input levelingroll="0" height="2976" levelbiashidpi="1.000" width="2976" leveltilesize="510" levelbias="0.400" overlap="1" leveltileurl="tiles/node24/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0">
+      <level height="2976" width="2976" predecode="0" preload="0"/>
+      <level height="1488" width="1488" predecode="0" preload="0"/>
+      <level height="744" width="744" predecode="0" preload="0"/>
+      <level height="372" width="372" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" fov="100" projection="4" pan="-99.7832"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" fovstereographic="270" fovfisheye="360" fov="120" pan="360" scaletofit="1"/>
+    </view>
+    <userdata latitude="36.213444" customnodeid="" author="" datetime="12/1/2025 12:02 PM" copyright="" source="" description="" info="" tags="زمینی|120" altitude="977.30" title="تولید ، روتراشی و بالانس رتور" nodeid="node24" longitude="57.672806" comment="" heading="0"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label textcolor="0x000000" backgroundcolor="0xffffff" border="1" enabled="1" height="20" width="180" borderradius="1" wordwrap="1" textalpha="1" borderalpha="1" backgroundalpha="1" bordercolor="0x000000" background="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" borderalpha="1" backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot tilt="2" target="-28.2/0.0/100.0" description="" id="Point01" title="ساخت بوبین و عایق کاری فشار قوی" skinid="ht_node" pan="-52.55" url="{node25}"/>
+      <hotspot tilt="2" target="" description="" id="Point02" title="ایستگاه تست محصول /تست IP" skinid="ht_node" pan="-99.98" url="{node13}"/>
+      <hotspot tilt="-1.57" target="28.1/0.0/98.3" description="" id="Point03" title="سالن های تولیدی 110،120،130" skinid="ht_node" pan="-285.02" url="{node7}"/>
+    </hotspots>
+    <media>
+      <sound level="0.850" mode="0" keep="1" id="skin_snd_unishahrood-sound" url="media/skin_snd_skin_snd_unishahrood-sound.mp3" loop="0"/>
+    </media>
+    <transition zoomafterinfov="90" zoomafteroutfov="20" blendtime="0" enabled="1" zoomspeed="1" softedge="0" zoomin="0" type="cut" zoomoutpause="0" zoomfov="20" blendcolor="0x000000" zoomout="0"/>
+    <autorotate returntohorizon="10.000" enabled="1" startloaded="0" noderandom="0" nodedelay="24.20" delay="5.00" useanimation="0" nodefilter="" speed="0.250"/>
+    <flyintransition enabled="1" speed="1.30"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" simulatemass="1" lockedkeyboard="0" contextfullscreen="1" rubberband="1" hideabout="1" contextvr="1" contextprojections="1" dblclickfullscreen="1" sensitivity="8" invertcontrol="1" lockedmouse="0" lockedwheel="0" invertwheel="1">
+      <menulink url="www.moon-co.ir" text="Paresh Group"/>
+      <menulink url="" text="Created by Eng.BASHIRI"/>
+    </control>
+  </panorama>
+  <panorama id="node13" hideabout="1">
+    <input levelingroll="0" height="2976" levelbiashidpi="1.000" width="2976" leveltilesize="510" levelbias="0.400" overlap="1" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0">
+      <level height="2976" width="2976" predecode="0" preload="0"/>
+      <level height="1488" width="1488" predecode="0" preload="0"/>
+      <level height="744" width="744" predecode="0" preload="0"/>
+      <level height="372" width="372" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" fov="92.444" projection="4" pan="99.5662"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" fovstereographic="270" fovfisheye="360" fov="120" pan="360" scaletofit="1"/>
+    </view>
+    <userdata latitude="36.213444" customnodeid="" author="" datetime="12/1/2025 11:48 AM" copyright="" source="" description="" info="" tags="زمینی|120" altitude="977.30" title="ایستگاه تست محصول /تست IP" nodeid="node13" longitude="57.672806" comment="" heading="0"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label textcolor="0x000000" backgroundcolor="0xffffff" border="1" enabled="1" height="20" width="180" borderradius="1" wordwrap="1" textalpha="1" borderalpha="1" backgroundalpha="1" bordercolor="0x000000" background="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" borderalpha="1" backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot tilt="2" target="88.6/0.0/92.4" description="" id="Point01" title="اتاق فرمان تست 120" skinid="ht_node" pan="-232.22" url="{node12}"/>
+      <hotspot tilt="2" target="75.2/0.0/100.0" description="" id="Point02" title="تولید ، روتراشی و بالانس رتور" skinid="ht_node" pan="-98.7" url="{node24}"/>
+    </hotspots>
+    <media>
+      <sound level="0.850" mode="0" keep="1" id="skin_snd_unishahrood-sound" url="media/skin_snd_skin_snd_unishahrood-sound.mp3" loop="0"/>
+    </media>
+    <transition zoomafterinfov="90" zoomafteroutfov="20" blendtime="0" enabled="1" zoomspeed="1" softedge="0" zoomin="0" type="cut" zoomoutpause="0" zoomfov="20" blendcolor="0x000000" zoomout="0"/>
+    <autorotate returntohorizon="10.000" enabled="1" startloaded="0" noderandom="0" nodedelay="24.20" delay="5.00" useanimation="0" nodefilter="" speed="0.250"/>
+    <flyintransition enabled="1" speed="1.30"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" simulatemass="1" lockedkeyboard="0" contextfullscreen="1" rubberband="1" hideabout="1" contextvr="1" contextprojections="1" dblclickfullscreen="1" sensitivity="8" invertcontrol="1" lockedmouse="0" lockedwheel="0" invertwheel="1">
+      <menulink url="www.moon-co.ir" text="Paresh Group"/>
+      <menulink url="" text="Created by Eng.BASHIRI"/>
+    </control>
+  </panorama>
+  <panorama id="node12" hideabout="1">
+    <input levelingroll="0" height="2976" levelbiashidpi="1.000" width="2976" leveltilesize="510" levelbias="0.400" overlap="1" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0">
+      <level height="2976" width="2976" predecode="0" preload="0"/>
+      <level height="1488" width="1488" predecode="0" preload="0"/>
+      <level height="744" width="744" predecode="0" preload="0"/>
+      <level height="372" width="372" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" fov="92.444" projection="4" pan="88.6072"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" fovstereographic="270" fovfisheye="360" fov="120" pan="360" scaletofit="1"/>
+    </view>
+    <userdata latitude="36.213444" customnodeid="" author="" datetime="12/1/2025 11:37 AM" copyright="" source="" description="" info="" tags="زمینی|120" altitude="977.30" title="اتاق فرمان تست 120" nodeid="node12" longitude="57.672806" comment="" heading="0"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label textcolor="0x000000" backgroundcolor="0xffffff" border="1" enabled="1" height="20" width="180" borderradius="1" wordwrap="1" textalpha="1" borderalpha="1" backgroundalpha="1" bordercolor="0x000000" background="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" borderalpha="1" backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot tilt="2" target="99.6/0.0/92.4" description="" id="Point01" title="ایستگاه تست محصول /تست IP" skinid="ht_node" pan="-19.61" url="{node13}"/>
+    </hotspots>
+    <media>
+      <sound level="0.850" mode="0" keep="1" id="skin_snd_unishahrood-sound" url="media/skin_snd_skin_snd_unishahrood-sound.mp3" loop="0"/>
+    </media>
+    <transition zoomafterinfov="90" zoomafteroutfov="20" blendtime="0" enabled="1" zoomspeed="1" softedge="0" zoomin="0" type="cut" zoomoutpause="0" zoomfov="20" blendcolor="0x000000" zoomout="0"/>
+    <autorotate returntohorizon="10.000" enabled="1" startloaded="0" noderandom="0" nodedelay="24.20" delay="5.00" useanimation="0" nodefilter="" speed="0.250"/>
+    <flyintransition enabled="1" speed="1.30"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" simulatemass="1" lockedkeyboard="0" contextfullscreen="1" rubberband="1" hideabout="1" contextvr="1" contextprojections="1" dblclickfullscreen="1" sensitivity="8" invertcontrol="1" lockedmouse="0" lockedwheel="0" invertwheel="1">
+      <menulink url="www.moon-co.ir" text="Paresh Group"/>
+      <menulink url="" text="Created by Eng.BASHIRI"/>
+    </control>
+  </panorama>
+  <panorama id="node2" hideabout="1">
+    <input levelingroll="0" height="1440" levelbiashidpi="1.000" width="1440" leveltilesize="510" levelbias="0.400" overlap="1" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0">
+      <level height="1440" width="1440" predecode="0" preload="0"/>
+      <level height="720" width="720" predecode="0" preload="0"/>
+      <level height="360" width="360" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" fov="98.3" projection="4" pan="30.63"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" pan="-129.48" fovpixel="2"/>
+      <max tilt="90" fovstereographic="270" fovfisheye="360" fov="120" pan="93.27" scaletofit="1"/>
+    </view>
+    <userdata latitude="" customnodeid="" author="" datetime="12/1/2025 9:34 AM" copyright="" source="" description="" info="" tags="هوایی" title="آزمایشگاه تست محصولات EX" nodeid="node2" longitude="" comment="" heading="0"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label textcolor="0x000000" backgroundcolor="0xffffff" border="1" enabled="1" height="20" width="180" borderradius="1" wordwrap="1" textalpha="1" borderalpha="1" backgroundalpha="1" bordercolor="0x000000" background="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" borderalpha="1" backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff"/>
+      <polyhotspot target="0.0/0.0/98.3" description="" id="Poly01" title="میهمان سرا" url="{node1}">
+        <polystring>-102.74/9.42|-77.08/9.21|-77.3/3.55|-103.18/3.77</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly02" title="ساختمان مدیریت/مهندسی" url="{node6}">
+        <polystring>-359.88/14.83|-25.34/14.62|-25.34/8.96|-359.74/9.29</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <sound level="0.850" mode="0" keep="1" id="skin_snd_unishahrood-sound" url="media/skin_snd_skin_snd_unishahrood-sound.mp3" loop="0"/>
+    </media>
+    <transition zoomafterinfov="90" zoomafteroutfov="20" blendtime="0" enabled="1" zoomspeed="1" softedge="0" zoomin="0" type="cut" zoomoutpause="0" zoomfov="20" blendcolor="0x000000" zoomout="0"/>
+    <autorotate returntohorizon="10.000" enabled="1" startloaded="0" noderandom="0" nodedelay="24.20" delay="5.00" useanimation="0" nodefilter="" speed="0.250"/>
+    <flyintransition enabled="1" speed="1.30"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" simulatemass="1" lockedkeyboard="0" contextfullscreen="1" rubberband="1" hideabout="1" contextvr="1" contextprojections="1" dblclickfullscreen="1" sensitivity="8" invertcontrol="1" lockedmouse="0" lockedwheel="0" invertwheel="1">
+      <menulink url="www.moon-co.ir" text="Paresh Group"/>
+      <menulink url="" text="Created by Eng.BASHIRI"/>
+    </control>
+  </panorama>
+  <panorama id="node1" hideabout="1">
+    <input levelingroll="0" height="1440" levelbiashidpi="1.000" width="1440" leveltilesize="510" levelbias="0.400" overlap="1" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0">
+      <level height="1440" width="1440" predecode="0" preload="0"/>
+      <level height="720" width="720" predecode="0" preload="0"/>
+      <level height="360" width="360" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" fov="98.3008" projection="4" pan="0.0421122"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" pan="-123.56" fovpixel="2"/>
+      <max tilt="90" fovstereographic="270" fovfisheye="360" fov="120" pan="127.56" scaletofit="1"/>
+    </view>
+    <userdata latitude="" customnodeid="" author="" datetime="12/1/2025 9:30 AM" copyright="" source="" description="" info="" tags="هوایی" title="میهمان سرا" nodeid="node1" longitude="" comment="" heading="0"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label textcolor="0x000000" backgroundcolor="0xffffff" border="1" enabled="1" height="20" width="180" borderradius="1" wordwrap="1" textalpha="1" borderalpha="1" backgroundalpha="1" bordercolor="0x000000" background="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" borderalpha="1" backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff"/>
+      <polyhotspot target="" description="" id="Poly01" title="آزمایشگاه تست محصولات EX" url="{node2}">
+        <polystring>-292.69/8.37|-267.66/8.18|-267.77/2.75|-292.94/2.66</polystring>
+      </polyhotspot>
+      <polyhotspot target="0.0/0.0/100.0" description="" id="Poly02" title="لابی مهمانسرا" url="{node9}">
+        <polystring>-12.57/-24.68|-345.04/-24.47|-345.04/-29.34|-12.8/-29.56</polystring>
+      </polyhotspot>
+      <polyhotspot target="-39.4/0.0/98.3" description="" id="Poly03" title="ساختمان مدیریت/مهندسی" url="{node6}">
+        <polystring>-336.85/14.55|-2.16/13.41|-2.01/8.13|-336.8/8.98</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <sound level="0.850" mode="0" keep="1" id="skin_snd_unishahrood-sound" url="media/skin_snd_skin_snd_unishahrood-sound.mp3" loop="0"/>
+    </media>
+    <transition zoomafterinfov="90" zoomafteroutfov="20" blendtime="0" enabled="1" zoomspeed="1" softedge="0" zoomin="0" type="cut" zoomoutpause="0" zoomfov="20" blendcolor="0x000000" zoomout="0"/>
+    <autorotate returntohorizon="10.000" enabled="1" startloaded="0" noderandom="0" nodedelay="24.20" delay="5.00" useanimation="0" nodefilter="" speed="0.250"/>
+    <flyintransition enabled="1" speed="1.30"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" simulatemass="1" lockedkeyboard="0" contextfullscreen="1" rubberband="1" hideabout="1" contextvr="1" contextprojections="1" dblclickfullscreen="1" sensitivity="8" invertcontrol="1" lockedmouse="0" lockedwheel="0" invertwheel="1">
+      <menulink url="www.moon-co.ir" text="Paresh Group"/>
+      <menulink url="" text="Created by Eng.BASHIRI"/>
+    </control>
+  </panorama>
+  <panorama id="node9" hideabout="1">
+    <input levelingroll="0" height="2976" levelbiashidpi="1.000" width="2976" leveltilesize="510" levelbias="0.400" overlap="1" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0">
+      <level height="2976" width="2976" predecode="0" preload="0"/>
+      <level height="1488" width="1488" predecode="0" preload="0"/>
+      <level height="744" width="744" predecode="0" preload="0"/>
+      <level height="372" width="372" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" fov="100" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" fovstereographic="270" fovfisheye="360" fov="120" pan="360" scaletofit="1"/>
+    </view>
+    <userdata latitude="36.213444" customnodeid="" author="" datetime="12/1/2025 1:47 PM" copyright="" source="" description="" info="" tags="زمینی|HOTEL" altitude="977.30" title="لابی مهمانسرا" nodeid="node9" longitude="57.672806" comment="" heading="0"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label textcolor="0x000000" backgroundcolor="0xffffff" border="1" enabled="1" height="20" width="180" borderradius="1" wordwrap="1" textalpha="1" borderalpha="1" backgroundalpha="1" bordercolor="0x000000" background="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" borderalpha="1" backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot tilt="-6.9" target="0.0/0.0/98.3" description="" id="Point01" title="میهمان سرا" skinid="ht_node" pan="-154.15" url="{node1}"/>
+      <hotspot tilt="2" target="-14.7/0.0/100.0" description="" id="Point02" title="مجموعه سوئیت ها" skinid="ht_node" pan="-26.86" url="{node11}"/>
+    </hotspots>
+    <media>
+      <sound level="0.850" mode="0" keep="1" id="skin_snd_unishahrood-sound" url="media/skin_snd_skin_snd_unishahrood-sound.mp3" loop="0"/>
+    </media>
+    <transition zoomafterinfov="90" zoomafteroutfov="20" blendtime="0" enabled="1" zoomspeed="1" softedge="0" zoomin="0" type="cut" zoomoutpause="0" zoomfov="20" blendcolor="0x000000" zoomout="0"/>
+    <autorotate returntohorizon="10.000" enabled="1" startloaded="0" noderandom="0" nodedelay="24.20" delay="5.00" useanimation="0" nodefilter="" speed="0.250"/>
+    <flyintransition enabled="1" speed="1.30"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" simulatemass="1" lockedkeyboard="0" contextfullscreen="1" rubberband="1" hideabout="1" contextvr="1" contextprojections="1" dblclickfullscreen="1" sensitivity="8" invertcontrol="1" lockedmouse="0" lockedwheel="0" invertwheel="1">
+      <menulink url="www.moon-co.ir" text="Paresh Group"/>
+      <menulink url="" text="Created by Eng.BASHIRI"/>
+    </control>
+  </panorama>
+  <panorama id="node11" hideabout="1">
+    <input levelingroll="0" height="2976" levelbiashidpi="1.000" width="2976" leveltilesize="510" levelbias="0.400" overlap="1" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0">
+      <level height="2976" width="2976" predecode="0" preload="0"/>
+      <level height="1488" width="1488" predecode="0" preload="0"/>
+      <level height="744" width="744" predecode="0" preload="0"/>
+      <level height="372" width="372" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" fov="100" projection="4" pan="-14.6833"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" fovstereographic="270" fovfisheye="360" fov="120" pan="360" scaletofit="1"/>
+    </view>
+    <userdata latitude="36.213444" customnodeid="" author="" datetime="12/1/2025 2:23 PM" copyright="" source="" description="" info="" tags="زمینی|HOTEL" altitude="977.30" title="مجموعه سوئیت ها" nodeid="node11" longitude="57.672806" comment="" heading="0"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label textcolor="0x000000" backgroundcolor="0xffffff" border="1" enabled="1" height="20" width="180" borderradius="1" wordwrap="1" textalpha="1" borderalpha="1" backgroundalpha="1" bordercolor="0x000000" background="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" borderalpha="1" backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot tilt="-13.94" target="" description="" id="Point01" title="سوئیت 2 تخت" skinid="Hotspot 2" pan="-357.6" url="{node10}"/>
+      <hotspot tilt="2" target="-154.0/0.0/100.0" description="" id="Point02" title="لابی مهمانسرا" skinid="ht_node" pan="-56.03" url="{node9}"/>
+    </hotspots>
+    <media>
+      <sound level="0.850" mode="0" keep="1" id="skin_snd_unishahrood-sound" url="media/skin_snd_skin_snd_unishahrood-sound.mp3" loop="0"/>
+    </media>
+    <transition zoomafterinfov="90" zoomafteroutfov="20" blendtime="0" enabled="1" zoomspeed="1" softedge="0" zoomin="0" type="cut" zoomoutpause="0" zoomfov="20" blendcolor="0x000000" zoomout="0"/>
+    <autorotate returntohorizon="10.000" enabled="1" startloaded="0" noderandom="0" nodedelay="24.20" delay="5.00" useanimation="0" nodefilter="" speed="0.250"/>
+    <flyintransition enabled="1" speed="1.30"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" simulatemass="1" lockedkeyboard="0" contextfullscreen="1" rubberband="1" hideabout="1" contextvr="1" contextprojections="1" dblclickfullscreen="1" sensitivity="8" invertcontrol="1" lockedmouse="0" lockedwheel="0" invertwheel="1">
+      <menulink url="www.moon-co.ir" text="Paresh Group"/>
+      <menulink url="" text="Created by Eng.BASHIRI"/>
+    </control>
+  </panorama>
+  <panorama id="node10" hideabout="1">
+    <input levelingroll="0" height="2976" levelbiashidpi="1.000" width="2976" leveltilesize="510" levelbias="0.400" overlap="1" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0">
+      <level height="2976" width="2976" predecode="0" preload="0"/>
+      <level height="1488" width="1488" predecode="0" preload="0"/>
+      <level height="744" width="744" predecode="0" preload="0"/>
+      <level height="372" width="372" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" fov="100" projection="4" pan="-59.3751"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" fovstereographic="270" fovfisheye="360" fov="120" pan="360" scaletofit="1"/>
+    </view>
+    <userdata latitude="36.213444" customnodeid="" author="" datetime="12/1/2025 2:20 PM" copyright="" source="" description="" info="" tags="زمینی|HOTEL" altitude="977.30" title="سوئیت 2 تخت" nodeid="node10" longitude="57.672806" comment="" heading="0"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label textcolor="0x000000" backgroundcolor="0xffffff" border="1" enabled="1" height="20" width="180" borderradius="1" wordwrap="1" textalpha="1" borderalpha="1" backgroundalpha="1" bordercolor="0x000000" background="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" borderalpha="1" backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot tilt="-18.59" target="-56.7/0.0/100.0" description="" id="Point01" title="مجموعه سوئیت ها" skinid="Hotspot 2" pan="-266.04" url="{node11}"/>
+    </hotspots>
+    <media>
+      <sound level="0.850" mode="0" keep="1" id="skin_snd_unishahrood-sound" url="media/skin_snd_skin_snd_unishahrood-sound.mp3" loop="0"/>
+    </media>
+    <transition zoomafterinfov="90" zoomafteroutfov="20" blendtime="0" enabled="1" zoomspeed="1" softedge="0" zoomin="0" type="cut" zoomoutpause="0" zoomfov="20" blendcolor="0x000000" zoomout="0"/>
+    <autorotate returntohorizon="10.000" enabled="1" startloaded="0" noderandom="0" nodedelay="24.20" delay="5.00" useanimation="0" nodefilter="" speed="0.250"/>
+    <flyintransition enabled="1" speed="1.30"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" simulatemass="1" lockedkeyboard="0" contextfullscreen="1" rubberband="1" hideabout="1" contextvr="1" contextprojections="1" dblclickfullscreen="1" sensitivity="8" invertcontrol="1" lockedmouse="0" lockedwheel="0" invertwheel="1">
+      <menulink url="www.moon-co.ir" text="Paresh Group"/>
+      <menulink url="" text="Created by Eng.BASHIRI"/>
+    </control>
+  </panorama>
+  <masternode>
+    <userdata latitude="" customnodeid="" author="" datetime="" copyright="" source="" description="" info="" tags="" title="" nodeid="master" longitude="" comment="" heading="0"/>
+  </masternode>
+</tour>
